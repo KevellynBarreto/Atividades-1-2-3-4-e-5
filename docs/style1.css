@@ -1,0 +1,69 @@
+*{
+    background: #FEEFB5;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+    
+
+.titulo{
+    margin-bottom: 25px;
+    background-color: gold;
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    margin: 90px auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    
+    
+}
+
+.caixa{
+    width: 150px;
+    height: 30px; 
+    font-size: 15px; 
+    border-radius: 20px;
+    text-align: center;
+    margin: 0.5px auto;
+    margin: 2px;
+
+}
+
+
+.btn:hover{
+    background-color: #F0BE4D;
+ 
+}
+
+.btn{
+   
+    width: 120px;
+    height: 30px; 
+    font-size: 15px; 
+    border-radius: 20px;
+
+}
+
+.bot:hover{
+    background-color: #F0BE4D;
+ 
+}
+
+.bot{
+    border-radius: 20px;
+   top: 200px ;
+   font-size: 15.5px;
+   
+
+}
+
+.tata{
+
+    margin-bottom: 25px;
+    background-color: gold;
+    font-size: 25px;
+}
+
