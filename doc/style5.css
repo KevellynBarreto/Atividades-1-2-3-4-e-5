@@ -1,0 +1,93 @@
+*{
+    background: #FF8A89;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+    
+
+.titulo{
+    margin-bottom: 5px;
+    background-color: #F85454;
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    
+
+    
+    
+}
+
+.tab{
+  height: 100px;
+  width: 300px;
+  margin-right: 460px;
+  font-size: 20px;
+  border: rgb(0, 0, 0);
+  background: rgb(255, 94, 91)
+  
+
+  
+}
+
+
+.btn:hover{
+    background-color: #F85454;
+ 
+}
+
+.btn{
+   
+    width: 120px;
+    height: 30px; 
+    font-size: 15px; 
+    border-radius: 20px;
+
+}
+
+.bot:hover{
+    background-color: #F85454;
+ 
+}
+
+.bot{
+   border-radius: 20px;
+   top: 280px ;
+   font-size: 15.5px;
+   position: relative;
+   
+
+}
+
+.idades{
+    border-radius: 20px ;
+    margin-bottom: 25px;
+    background-color: #F85454;
+    font-size: 25px;
+}
+
+.id1{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px; 
+    margin: 1px;
+}
+
+.id2{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px; 
+    margin: 1px;
+}
+
+.id3{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px; 
+    margin: 1px;
+}
